@@ -2,6 +2,8 @@
 
 Any web application can be checked for Spell check as well as Camel Case, This utility will help us to verify the spelling wrt dictionary defined
 
+
+
 Here is how you will be going to use it:-
 
 Just build it with maven with all dependencies and export as runnable Jar which will be taking URL as input
